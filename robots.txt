@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bkgamerx.github.io/abo-najm-store/sitemap.xml
